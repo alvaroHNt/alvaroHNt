@@ -14,7 +14,8 @@
 
 ## HABILIDADES / SKILLS
 ### Hard Skills
-![HTML5](https://img.shields.io/badge/html5)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor)![Git](https://img.shields.io/badge/git)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor)![Git](https://img.shields.io/badge/git)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
 
 ### Soft Skills
 ![Communicativo](https://img.shields.io/badge/Communicativo-red)
