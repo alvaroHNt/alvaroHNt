@@ -16,6 +16,8 @@
 ### Hard Skills
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=CSS3)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=fff)](https://docs.github.com/pt)
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=fff)](https://git-scm.com/doc)
 
 ### Soft Skills
 ![Communicativo](https://img.shields.io/badge/Communicativo-red)
