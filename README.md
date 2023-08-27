@@ -7,14 +7,14 @@
 ## <em>"Estudar não é um ato de consumir ideias, mas sim de criá-las e recriá-las."</em> - Paulo Freire <br><br><em>"Studying is not an act of consuming ideas, but rather of creating and recreating them." - Paulo Freire <br> 
 
 ##<h1>Me Adicione ao seu Network! / Add me to Your Network!</h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/alvaro-henriques-neto-411447176//)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/alvaro-henriques-neto-411447176/)
 [![!facebook](https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=0E76A8)](https://www.facebook.com/alvarolhenriques/)
 [![!gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor)](alvahenriques@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/alvahenriques)
 
 ## HABILIDADES / SKILLS
 ### Hard Skills
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor) ![HTML5](https://img.shields.io/badge/html-%.svg?style=for-the-badge&logo=html&logoColor) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor) ![HTML5](https://img.shields.io/badge/html5-%.svg?style=for-the-badge&logo=html5&logoColor=) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor)
 ![Git](https://img.shields.io/badge/git-%White23F05033.svg?style=for-the-badge&logo=git&logoColor)
 
 ### Soft Skills
