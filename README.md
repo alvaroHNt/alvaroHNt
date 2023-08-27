@@ -7,7 +7,7 @@
 ## <em>"Estudar não é um ato de consumir ideias, mas sim de criá-las e recriá-las."</em> - Paulo Freire <br><br><em>"Studying is not an act of consuming ideas, but rather of creating and recreating them." - Paulo Freire <br> 
 
 ##<h1>Me Adicione ao seu Network! / Add me to Your Network!</h1>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor)]([[https://www.linkedin.com/in/alvaro-henriques-neto-411447176/](https://www.linkedin.com/in/alvaro-henriques-neto-411447176/)](https://www.linkedin.com/in/alvaro-henriques-neto-411447176/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor)]((https://www.dio.me/users/alvahenriques)
 [![!facebook](https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=0E76A8)](https://www.facebook.com/alvarolhenriques/)
 [![!gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor)](alvahenriques@gmail.com)
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/alvahenriques)
